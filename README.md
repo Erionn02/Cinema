@@ -1,7 +1,6 @@
 # Cinema
 
 Projekt był realizowany na zajęcia z programowania obiektowego.
-Miał być realizowany w parach, ale ~90% kodu napisałem ja.
 
 Aby projekt zadziałał należy:
 1) zainstalować bibliotekę boost
